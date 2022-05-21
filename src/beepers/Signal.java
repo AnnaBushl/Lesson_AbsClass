@@ -6,6 +6,6 @@ public class Signal implements Beeper {
 
     @Override
     public String makeSound() {
-        return "Áèèèèïïïï";
+        return "Ğ‘Ğ¸Ğ¸Ğ¸Ğ¸Ğ¿Ğ¿Ğ¿Ğ¿";
     }
 }

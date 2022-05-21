@@ -6,6 +6,6 @@ public class Honk implements Beeper {
 
     @Override
     public String makeSound() {
-        return "Áèï-Áèï-Áèï-Áèï";
+        return "Ğ‘Ğ¸Ğ¿-Ğ‘Ğ¸Ğ¿-Ğ‘Ğ¸Ğ¿-Ğ‘Ğ¸Ğ¿";
     }
 }

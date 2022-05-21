@@ -5,6 +5,6 @@ import tracks.Music;
 public class Music_Bus implements Music {
     @Override
     public String playMusic() {
-        return "Уважаемые пассажиры и гости нашего города!";
+        return "РЈРІР°Р¶Р°РµРјС‹Рµ РїР°СЃСЃР°Р¶РёСЂС‹ Рё РіРѕСЃС‚Рё РЅР°С€РµРіРѕ РіРѕСЂРѕРґР°!";
     }
 }

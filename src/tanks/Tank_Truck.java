@@ -5,6 +5,6 @@ import tanks.Tank;
 public class Tank_Truck implements Tank {
     @Override
     public String pourBenzin() {
-        return "V = 350 литров";
+        return "V = 350 Р»РёС‚СЂРѕРІ";
     }
 }

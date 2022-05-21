@@ -29,7 +29,7 @@ public class Main {
         Bus bus = new Bus(signal, engine_Bus, music_Bus, tank_Bus);
 
 
-        System.out.println("Данные по грузовику:");
+        System.out.println("Р”Р°РЅРЅС‹Рµ РїРѕ РіСЂСѓР·РѕРІРёРєСѓ:");
         System.out.println(truck.beeper.makeSound());
         System.out.println(truck.engine.getSpeed());
         System.out.println(truck.music.playMusic());
@@ -37,7 +37,7 @@ public class Main {
 
         System.out.println("-----------");
 
-        System.out.println("Данные по автобусу:");
+        System.out.println("Р”Р°РЅРЅС‹Рµ РїРѕ Р°РІС‚РѕР±СѓСЃСѓ:");
         System.out.println(bus.beeper.makeSound());
         System.out.println(bus.engine.getSpeed());
         System.out.println(bus.music.playMusic());
